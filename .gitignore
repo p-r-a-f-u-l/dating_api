@@ -1,0 +1,6 @@
+db.*
+.env/
+.vscode/
+.idea/
+00*
+*.zip
